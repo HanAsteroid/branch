@@ -5,3 +5,6 @@
 .DS_Store
 /build
 /captures
+# 添加
+*.apk
+*.ap_
